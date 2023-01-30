@@ -1,16 +1,16 @@
 {
-  "name": "nextjs-argon-dashboard",
-  "version": "1.1.0",
-  "author": "Creative Tim",
+  "name": "portfolio-cms-fe",
+  "version": "0.0.1",
+  "author": "Top G",
   "license": "MIT",
-  "homepage": "https://demos.creative-tim.com/nextjs-argon-dashboard/",
-  "description": "NextJS version of Argon Dashboard React by Creative Tim",
+  "homepage": "https://github.com/raudipra/portfolio-cms-fe",
+  "description": "Portfolio Dashboard built upon NextJS by Top G",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/nextjs-argon-dashboard/issues"
+    "url": "https://github.com/raudipra/portfolio-cms-fe/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/nextjs-argon-dashboard.git"
+    "url": "git+https://github.com/raudipra/portfolio-cms-fe.git"
   },
   "scripts": {
     "start": "next start",
