@@ -33,7 +33,7 @@ function Admin(props) {
         routes={routes}
         logo={{
           innerLink: "/admin/index",
-          imgSrc: require("assets/img/brand/haikyuu-logo.png"),
+          imgSrc: require("assets/img/brand/cobratate-logo.png"),
           imgAlt: "...",
         }}
       />
